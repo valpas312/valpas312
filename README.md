@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Valentin Palmas</h1>
 <h3 align="center">A passionate full-stack developer from Argentina</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valpas312" alt="valpas312" /></a> </p>
-
 - 🔭 I’m currently working on **remaster my old projects**
 
 - 🌱 I’m currently learning **python and sql**
