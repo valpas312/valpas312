@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Valentin Palmas</h1>
 <h3 align="center">A passionate full-stack developer from Argentina</h3>
 
-- 🔭 I’m currently working on **my image like programmer**
+- 🔭 I’m currently working on **new work experiences**
 
 - 🌱 I’m currently learning **react-native**
-
-- 🤝 I’m looking for help with **finding my first job as a programmer**
 
 - 💬 Ask me about **react, mongodb and js**
 
