@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **new work experiences**
 
-- 🌱 I’m currently learning **react-native**
+- 🌱 I’m currently learning **crypress**
 
 - 💬 Ask me about **react, mongodb and js**
 
